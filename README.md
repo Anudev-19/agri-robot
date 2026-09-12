@@ -68,24 +68,6 @@ The mobile app was designed but not developed in this phase. The intended design
 
 ---
 
-## 📁 Project Structure
-
-```
-agri-robot/
-├── src/
-│   ├── main.py              # Main embedded code (Raspberry Pi)
-│   ├── motor_control.py     # L293D motor driver functions
-│   ├── sensor_reader.py     # DHT11 + soil moisture reading
-│   └── relay_control.py     # Pump and spray relay control
-├── docs/
-│   └── report.pdf           # Full project report
-├── images/
-│   ├── circuit_diagram.jpg
-│   ├── block_diagram.jpg
-│   └── prototype.jpg
-├── components.md
-└── README.md
-```
 
 ---
 
